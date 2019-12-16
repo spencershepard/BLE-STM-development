@@ -1,0 +1,5 @@
+BLE_Beacon_Flash_main.c:239:6:Device_Init	24	static
+BLE_Beacon_Flash_main.c:416:6:aci_hal_end_of_radio_activity_event	0	static
+BLE_Beacon_Flash_main.c:427:6:FlashRoutine	16	static
+BLE_Beacon_Flash_main.c:368:5:main	72	static
+BLE_Beacon_Flash_main.c:454:12:App_SleepMode_Check	8	static
